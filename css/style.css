@@ -2,8 +2,7 @@
 /*Centrar la imagen*/
 header {
     text-align: center;
-    background-image: url('../img/fondo_1.jpg');
-    background-repeat: repeat-x;
+
     
 }
 
@@ -78,4 +77,16 @@ header a {
         color: purple;
         text-decoration: none;
         font-weight: bold;
+}
+
+.instagram {
+    width: 15px;
+    height: 15px;
+   
+}
+
+.facebook {
+    width: 15px;
+    height: 15px;
+    
 }
