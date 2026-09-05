@@ -15,7 +15,7 @@ h1 {
     background-color: #c8c8c8;
     font-family: 'Roboto', Times, serif;
     font-weight: 700;
-    color: #000000;
+    color:#005677;
     font-style: normal;
     
 }
@@ -23,7 +23,7 @@ h1 {
 h2 {
     background-color: #c9c8c8;
     font-family: 'Roboto', Times, serif;
-    color: rgb(0, 0, 0);
+    color:#005677;
     font-size: 20px;
     font-style: normal;
 }
@@ -40,8 +40,8 @@ body {
 /* Configuramos el pie de página*/
 footer {
     text-align: center;
-    background-color: #c8c8c8;
-    color: #000000;  
+    background-color: #005677;
+   
 
 }
 footer span {
@@ -49,11 +49,10 @@ footer span {
     font-weight: bold;
     font-style: normal;
     line-height: 85%;
+    color: white;
     
 }
-a {
-    text-decoration: none;
-}
+
 
 p {
     font-family: 'Roboto', Times, serif;
@@ -61,23 +60,6 @@ p {
     font-size: 20px;
 }
 
-header a {
-    position: left;
-    top: 10px;
-    left: 20px;
-    color: purple;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.volver {
-    text-align: left;
-        margin-left: 15px;
-        margin-top: 20px;
-        color: purple;
-        text-decoration: none;
-        font-weight: bold;
-}
 
 .instagram {
     width: 15px;
