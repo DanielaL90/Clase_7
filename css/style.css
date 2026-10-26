@@ -1,5 +1,5 @@
 
-/*Centrar la imagen*/
+
 header {
     text-align: center;
 
@@ -10,7 +10,7 @@ header {
     width: auto;
     height: 150px;
 }
-/*Cambiar color de fondo y tipografía del título*/
+
 h1 {
     background-color: #c8c8c8;
     font-family: 'Roboto', Times, serif;
@@ -19,7 +19,7 @@ h1 {
     font-style: normal;
     
 }
-/* Cambiar color de fondo y tipografía a los subtítulos*/
+
 h2 {
     background-color: #c9c8c8;
     font-family: 'Roboto', Times, serif;
@@ -27,21 +27,20 @@ h2 {
     font-size: 20px;
     font-style: normal;
 }
-/*Sacamos los puntos del listado*/ 
+
 .listado {
     list-style-type: none;
 
 }
-/* Elegimos la tipografía para el body*/
+
 body {
     font-family: 'Roboto', Times, serif;
     font-style: normal;
 }
-/* Configuramos el pie de página*/
+
 footer {
     text-align: center;
     background-color: #005677;
-   
 
 }
 footer span {
@@ -63,8 +62,7 @@ p {
 
 .instagram {
     width: 15px;
-    height: 15px;
-   
+    height: 15px;  
 }
 
 .facebook {
